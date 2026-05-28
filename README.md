@@ -10,7 +10,7 @@
   &nbsp;
   <a href="mailto:tiwaryharshitaa18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://harshita.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://w8harshita.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
   &nbsp;
   <a href="https://leetcode.com/harshita"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
@@ -65,12 +65,12 @@ I blend **code, creativity, and data** to build intelligent solutions — from d
 ### GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshita&show_icons=true&hide_border=true&theme=default&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita&layout=compact&hide_border=true&theme=default&langs_count=6"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=w8harshita&show_icons=true&hide_border=true&theme=default&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w8harshita&layout=compact&hide_border=true&theme=default&langs_count=6"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshita&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=w8harshita&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
