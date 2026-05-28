@@ -61,12 +61,7 @@ I blend **code, creativity, and data** to build intelligent solutions — from d
 
 ---
 
-### GitHub Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=w8harshita&show_icons=true&hide_border=true&theme=default&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w8harshita&layout=compact&hide_border=true&theme=default&langs_count=6"/>
-</p>
 
 ---
 
