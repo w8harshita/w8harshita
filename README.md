@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Harshita Kumari 👋⚡
+# Hey, I'm Harshita 👋
 
 ### Full-Stack Developer · AI Enthusiast · BIT Mesra, 3rd Year B.Tech
 
