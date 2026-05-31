@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00e5ff?style=for-the-badge&logoColor=black)](https://w8harshita.github.io)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-00c896?style=for-the-badge&logoColor=black)](https://w8harshita.github.io/resume_ML.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-kumari-a93148292-a93148292)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-kumari-a93148292)
 [![Email](https://img.shields.io/badge/Gmail-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwaryharshitaa18@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-400+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
@@ -122,6 +122,7 @@ harshita = {
 ---
 
 
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -130,7 +131,7 @@ harshita = {
 |---|---|
 | 🌐 Portfolio | [w8harshita.github.io](https://w8harshita.github.io) |
 | 📄 Resume | [Download Resume](https://w8harshita.github.io/resume_ML.pdf) |
-| 💼 LinkedIn | [in/harshita-kumari-a93148292](https://www.linkedin.com/in/harshita-kumari-a93148292-a93148292) |
+| 💼 LinkedIn | [in/harshita-kumari-a93148292](https://www.linkedin.com/in/harshita-kumari-a93148292) |
 | 📧 Email | [tiwaryharshitaa18@gmail.com](mailto:tiwaryharshitaa18@gmail.com) |
 | 📞 Phone | +91 8809019283 |
 | 🐙 GitHub | [github.com/w8harshita](https://github.com/w8harshita) |
