@@ -8,8 +8,9 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00e5ff?style=for-the-badge&logoColor=black)](https://w8harshita.github.io)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-00c896?style=for-the-badge&logoColor=black)](https://w8harshita.github.io/resume_ML.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshita-kumari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-kumari-a93148292-a93148292)
 [![Email](https://img.shields.io/badge/Gmail-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwaryharshitaa18@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 </div>
 
@@ -30,7 +31,7 @@ harshita = {
 }
 ```
 
-- 🎓 Second-year CS student at **Birla Institute of Technology, Mesra**
+- 🎓 Third-year CS student at **Birla Institute of Technology, Mesra**
 - 🏭 Currently interning at **Tata Steel** — building deep learning models for steel surface defect detection
 - 🔬 Previously interned at **Tata Motors** — semantic segmentation on industrial image datasets
 - 💡 I care about the gap between "it works in training" and "it works in production"
@@ -120,19 +121,6 @@ harshita = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=w8harshita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04060f&title_color=00e5ff&icon_color=00e5ff&text_color=c8d8f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w8harshita&layout=compact&theme=tokyonight&hide_border=true&bg_color=04060f&title_color=00e5ff&text_color=c8d8f0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=w8harshita&theme=tokyonight&hide_border=true&background=04060f&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff)
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
@@ -142,7 +130,7 @@ harshita = {
 |---|---|
 | 🌐 Portfolio | [w8harshita.github.io](https://w8harshita.github.io) |
 | 📄 Resume | [Download Resume](https://w8harshita.github.io/resume_ML.pdf) |
-| 💼 LinkedIn | [in/harshita-kumari](https://linkedin.com/in/harshita-kumari) |
+| 💼 LinkedIn | [in/harshita-kumari-a93148292](https://www.linkedin.com/in/harshita-kumari-a93148292-a93148292) |
 | 📧 Email | [tiwaryharshitaa18@gmail.com](mailto:tiwaryharshitaa18@gmail.com) |
 | 📞 Phone | +91 8809019283 |
 | 🐙 GitHub | [github.com/w8harshita](https://github.com/w8harshita) |
