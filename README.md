@@ -10,7 +10,6 @@
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-00c896?style=for-the-badge&logoColor=black)](https://w8harshita.github.io/resume_ML.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-kumari-a93148292)
 [![Email](https://img.shields.io/badge/Gmail-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwaryharshitaa18@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-400+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 </div>
 
