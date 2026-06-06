@@ -64,12 +64,6 @@ harshita = {
 
 ---
 
-### 📚 RAG Teaching Assistant
-> Converts lecture videos into a searchable knowledge base using **Whisper transcription + semantic embeddings + LLM prompting** to reduce hallucinations.
-- **Stack:** RAG · Whisper · Embeddings · LLMs · Python
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
